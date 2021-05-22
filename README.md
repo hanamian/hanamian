@@ -1,10 +1,9 @@
 ## Hi, I'm Hana Mia 👋 
 <p>
   <a href="https://www.hackerrank.com/hanamianp" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/hana-mia-nurpradita/" target="_blank"><img alt="LinkedIn" <img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a> 
+  <a href="https://www.linkedin.com/in/hana-mia-nurpradita/" target="_blank"><img alt="LinkedIn" <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
   <a href="https://www.kaggle.com/hanamianurpradita" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/Kaggle-2C8EBB?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>   
   <a href="https://github.com/hanamian" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>  
-  <a href="https://www.youtube.com/channel/UCpw_iILqKp9M0PIvHwPt97A" target="_blank"><img alt="Youtube" src="https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/></a>  
   <a href="https://twitter.com/HNurpradita" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>  
   <a href="mailto:hanamianp@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white"/></a>  
     
