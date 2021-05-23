@@ -18,12 +18,11 @@ Computer Vision, AI, BI, Data Engineering, and Cloud Computing. I have attended 
 - :house_with_garden:  I’m currently live temporarily in Surabaya
 - :art: I love to draw
 - :fire: A wife with no child, a bit old, but my soul is still burning to have an international career
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanamian&layout=compact)](https://github.com/hanamian/github-readme-stats">
 
 <br/>
 
 ## :green_book: Languages 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanamian&layout=compact)](https://github.com/hanamian/github-readme-stats">
-
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Powershell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" />
@@ -52,9 +51,15 @@ Computer Vision, AI, BI, Data Engineering, and Cloud Computing. I have attended 
 - [........](https:)
 - [........](https:)
 - [........](https:)
-<br/>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=hanamian">
+<br/>
+<br/>
 
 ## :computer: Viewers
 <img align='left' src="https://profile-counter.glitch.me/{hanamian}/count.svg">
+<br/>
+<br/>
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=hanamian">
+
+
+
