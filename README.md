@@ -1,6 +1,6 @@
+# Hi, I'm Hana Mia 👋 
 <img align='right' src="https://media.giphy.com/media/3o7aD9CIy1AfFDTJ3W/giphy.gif" height="150px">
 
-# Hi, I'm Hana Mia 👋 
 <p>
   <a href="https://www.linkedin.com/in/hana-mia-nurpradita/" target="_blank"><img alt="LinkedIn" <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/hanamianp" target="_blank"><img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
@@ -19,8 +19,11 @@ Computer Vision, AI, BI, Data Engineering, and Cloud Computing. I have attended 
 - :art: I love to draw
 - :fire: A wife with no child, a bit old, but my soul is still burning to have an international career
 
+<br/>
 
 ## :green_book: Languages 
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanamian&layout=compact)](https://github.com/hanamian/github-readme-stats">
+
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Powershell" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/powershell/powershell.png" />
@@ -28,30 +31,30 @@ Computer Vision, AI, BI, Data Engineering, and Cloud Computing. I have attended 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanamian&layout=compact)](https://github.com/hanamian/github-readme-stats">
+
+<br/>
 <br/>
 
-
 ## :computer: Tools
+
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" />
-<img align="left" alt="Spyder" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spyder/spyder.png" />
-<img align="left" alt="Google Colaboratory" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/google-colaboratory/google-colaboratory.png" />
+<img align="left" alt="AWS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=hanamian">
+<br/>
+<br/>
 
-<br />
-
-
-
-
-## 📕 Latest Projects
+## :construction: Latest Projects
 
 <!-- BLOG-POST-LIST:START -->
 - [........](https:)
 - [........](https:)
 - [........](https:)
 - [........](https:)
+<br/>
 
-<img align='right' src="https://profile-counter.glitch.me/{hanamian}/count.svg">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=hanamian">
+
+## :computer: Viewers
+<img align='left' src="https://profile-counter.glitch.me/{hanamian}/count.svg">
