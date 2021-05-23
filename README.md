@@ -1,4 +1,4 @@
-# Hi, I'm Hana Mia 👋 
+# Hi, I'm Hana Mia <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px">
 <img align='right' src="https://media.giphy.com/media/3o7aD9CIy1AfFDTJ3W/giphy.gif" height="150px">
 
 <p>
@@ -30,7 +30,6 @@ Computer Vision, AI, BI, Data Engineering, and Cloud Computing. I have attended 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 
-
 <br/>
 <br/>
 
@@ -53,13 +52,9 @@ Computer Vision, AI, BI, Data Engineering, and Cloud Computing. I have attended 
 - [........](https:)
 
 <br/>
-<br/>
 
 ## :computer: Viewers
 <img align='left' src="https://profile-counter.glitch.me/{hanamian}/count.svg">
 <br/>
 <br/>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=hanamian">
-
-
-
