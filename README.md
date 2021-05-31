@@ -17,7 +17,7 @@ Computer Vision, AI, BI, Data Engineering, and Cloud Computing. I have attended 
 
 - :house_with_garden:  I’m currently live temporarily in Surabaya
 - :art: I love to draw
-- :fire: A wife with no child, a bit old, but my soul is still burning to have a great career
+
 <img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanamian&layout=compact)](https://github.com/hanamian/github-readme-stats">
 
 <br/>
